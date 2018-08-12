@@ -1,0 +1,465 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Grand Trunk Road",
+          "short_name": "GT Road",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Pusauli",
+          "short_name": "Pusauli",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kaimur",
+          "short_name": "Kaimur",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bihar",
+          "short_name": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "821101",
+          "short_name": "821101",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Grand Trunk Rd, Pusauli, Bihar 821101, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 25.0941321,
+            "lng": 83.7324716
+          },
+          "southwest": {
+            "lat": 25.0896261,
+            "lng": 83.72557949999999
+          }
+        },
+        "location": {
+          "lat": 25.0921444,
+          "lng": 83.7292394
+        },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": {
+            "lat": 25.0941321,
+            "lng": 83.7324716
+          },
+          "southwest": {
+            "lat": 25.0896261,
+            "lng": 83.72557949999999
+          }
+        }
+      },
+      "place_id": "ChIJU6P1DPDcjTkRE7Xr58ATF2U",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Pusauli",
+          "short_name": "Pusauli",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kaimur",
+          "short_name": "Kaimur",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bihar",
+          "short_name": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "821101",
+          "short_name": "821101",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Pusauli, Bihar 821101, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 25.0991104,
+            "lng": 83.73119539999999
+          },
+          "southwest": {
+            "lat": 25.0911421,
+            "lng": 83.71948139999999
+          }
+        },
+        "location": {
+          "lat": 25.0964939,
+          "lng": 83.7265548
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 25.0991104,
+            "lng": 83.73119539999999
+          },
+          "southwest": {
+            "lat": 25.0911421,
+            "lng": 83.71948139999999
+          }
+        }
+      },
+      "place_id": "ChIJOU-z1fvcjTkR6dEf1oQBazA",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Ghatawan",
+          "short_name": "Ghatawan",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kaimur",
+          "short_name": "Kaimur",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bihar",
+          "short_name": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "821101",
+          "short_name": "821101",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Ghatawan, Bihar 821101, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 25.1051121,
+            "lng": 83.7472305
+          },
+          "southwest": {
+            "lat": 25.0854147,
+            "lng": 83.70771809999999
+          }
+        },
+        "location": {
+          "lat": 25.0950737,
+          "lng": 83.72788299999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 25.1051121,
+            "lng": 83.7472305
+          },
+          "southwest": {
+            "lat": 25.0854147,
+            "lng": 83.70771809999999
+          }
+        }
+      },
+      "place_id": "ChIJcctgrPvcjTkRbTcHN3yv4y8",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "821101",
+          "short_name": "821101",
+          "types": [
+            "postal_code"
+          ]
+        },
+        {
+          "long_name": "Kaimur",
+          "short_name": "Kaimur",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bihar",
+          "short_name": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bihar 821101, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 25.113103,
+            "lng": 83.83639909999999
+          },
+          "southwest": {
+            "lat": 24.90801,
+            "lng": 83.5309968
+          }
+        },
+        "location": {
+          "lat": 25.0091021,
+          "lng": 83.7199136
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 25.113103,
+            "lng": 83.83639909999999
+          },
+          "southwest": {
+            "lat": 24.90801,
+            "lng": 83.5309968
+          }
+        }
+      },
+      "place_id": "ChIJz8D9ndPbjTkR-kzcqruYFU4",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Kaimur",
+          "short_name": "Kaimur",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Bihar",
+          "short_name": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Kaimur, Bihar, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 25.4107703,
+            "lng": 83.9018554
+          },
+          "southwest": {
+            "lat": 24.5398521,
+            "lng": 83.3258668
+          }
+        },
+        "location": {
+          "lat": 25.0545504,
+          "lng": 83.67739279999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 25.4107703,
+            "lng": 83.9018554
+          },
+          "southwest": {
+            "lat": 24.5398521,
+            "lng": 83.3258668
+          }
+        }
+      },
+      "place_id": "ChIJR-xMGbjYjTkR4h9L6mUmCDQ",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Bihar",
+          "short_name": "BR",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "Bihar, India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 27.5213199,
+            "lng": 88.28975199999999
+          },
+          "southwest": {
+            "lat": 24.286278,
+            "lng": 83.31486509999999
+          }
+        },
+        "location": {
+          "lat": 25.0960742,
+          "lng": 85.31311939999999
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 27.5213199,
+            "lng": 88.28975199999999
+          },
+          "southwest": {
+            "lat": 24.286278,
+            "lng": 83.31486509999999
+          }
+        }
+      },
+      "place_id": "ChIJA2m78ERY7TkRJeO6G-0_rVc",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "India",
+          "short_name": "IN",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "formatted_address": "India",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 35.513327,
+            "lng": 97.39535869999999
+          },
+          "southwest": {
+            "lat": 6.4626999,
+            "lng": 68.1097
+          }
+        },
+        "location": {
+          "lat": 20.593684,
+          "lng": 78.96288
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 35.513327,
+            "lng": 97.39535869999999
+          },
+          "southwest": {
+            "lat": 6.4626999,
+            "lng": 68.1097
+          }
+        }
+      },
+      "place_id": "ChIJkbeSa_BfYzARphNChaFPjNc",
+      "types": [
+        "country",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}
